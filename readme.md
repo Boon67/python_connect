@@ -16,16 +16,13 @@ The script retrieves the current Snowflake version as a basic test of connectivi
 
 ## Installation
 
-1.  **Clone or download the script** (e.g., save it as `connect_snowflake.py`).
+1.  **Clone or download the repository**.
 
 2.  **Install the required Python libraries**:
     Open your terminal or command prompt and run:
     ```bash
-    pip install snowflake-connector-python cryptography
+    pip install -r requirements.txt
     ```
-    * `snowflake-connector-python`: The official Snowflake connector.
-    * `cryptography`: Required for handling RSA private keys for key pair authentication.
-
 ## Configuration
 
 This script relies on environment variables for all connection parameters and credentials. **Do not hardcode credentials directly into the script.**
