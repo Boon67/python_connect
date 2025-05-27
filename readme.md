@@ -145,15 +145,15 @@ Once you have installed the prerequisites and configured the environment variabl
 If the connection is successful, you should see output similar to this:
 
 
-Attempting RSA Key Pair authentication with Python Connector...
-Connecting to Snowflake account: SNOWFLAKE_ACCOUNT_NAME as user: SNOWFLAKE_USER using RSA Key Pair with Python Connector...
-Successfully connected to Snowflake using RSA Key Pair with Python Connector!
-Snowflake version (via Python Connector): 9.14.2
-Snowflake connection closed.
-Attempting RSA key pair authentication...
-Connecting to Snowflake account: SNOWFLAKE_ACCOUNT_NAME as user: SNOWFLAKE_USER using RSA Key Pair...
-Successfully created Snowpark session using RSA Key Pair!
-Snowflake version (via Snowpark): 9.14.2
-Snowpark session closed.
-Environment variables set by Bash script.
-SNOWFLAKE_USER is: SNOWFLAKE_USER
+`Attempting RSA Key Pair authentication with Python Connector...`
+`Connecting to Snowflake account: SNOWFLAKE_ACCOUNT_NAME as user: SNOWFLAKE_USER using RSA Key Pair with Python Connector...`
+`Successfully connected to Snowflake using RSA Key Pair with Python Connector!`
+`Snowflake version (via Python Connector): 9.14.2`
+`Snowflake connection closed.`
+`Attempting RSA key pair authentication...`
+`Connecting to Snowflake account: SNOWFLAKE_ACCOUNT_NAME as user: SNOWFLAKE_USER using RSA Key Pair...`
+`Successfully created Snowpark session using RSA Key Pair!`
+`Snowflake version (via Snowpark): 9.14.2`
+`Snowpark session closed.`
+`Environment variables set by Bash script.`
+`SNOWFLAKE_USER is: SNOWFLAKE_USER`
