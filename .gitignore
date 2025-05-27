@@ -1,2 +1,2 @@
 test.sh
-secrets/rsa_key.p8
+secrets/*
