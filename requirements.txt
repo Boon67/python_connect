@@ -1,0 +1,7 @@
+snowflake
+snowflake-connector-python
+snowflake-snowpark-python
+snowflake-snowpark-python[modin]
+cryptography
+PyJWT
+pandas
